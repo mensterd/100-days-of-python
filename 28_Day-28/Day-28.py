@@ -1,4 +1,3 @@
-from email.policy import default
 from tkinter import *
 
 # ---------------------------- CONSTANTS ------------------------------- #
