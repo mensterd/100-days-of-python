@@ -124,7 +124,7 @@ label_checks.grid(column=1, row=3)
 
 # Buttons
 button_start = Button(text="Start", command=button_start_timer)
-# Highlightthicknees=0 sets the tiny white border around the button to 0
+# Highlightthickness=0 sets the tiny white border around the button to 0
 button_start.config(width=10, height=1, font={FONT_NAME, 10, "bold"}, highlightthickness=0)
 button_start.grid(column=0, row=4)
 
