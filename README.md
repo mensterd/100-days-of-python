@@ -1,6 +1,9 @@
 # 100-days-of-python
 100 Days of Code: The Complete Python Pro Bootcamp by Angela Wu
 
+[Day 22: Turtle: Pong game](https://github.com/mensterd/100-days-of-python/tree/main/22_day-22)
+
+[Day 23: Turtle; Turtle crossong game](https://github.com/mensterd/100-days-of-python/tree/main/23_day-23)
 
 [Day 28: TkInter Pomodoro-timer](https://github.com/mensterd/100-days-of-python/tree/main/28_Day-28)
 
