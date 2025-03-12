@@ -1,5 +1,5 @@
 # Custom files
-secrets.ini
+secrets.py
 config.ini
 
 # Byte-compiled / optimized / DLL files
