@@ -10,3 +10,7 @@
 [Day 34: Quizgame with GUI and API fetched questions](https://github.com/mensterd/100-days-of-python/tree/main/34_day-34)
 
 [Day 35: Openweather api, does it rain the next 12 hours?](https://github.com/mensterd/100-days-of-python/tree/main/35_day-35)
+
+Day 45: Beautifull Soup
+
+Day 54: Flask guessing game (decorators)
