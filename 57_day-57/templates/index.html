@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="static/styles.css">
+    <title>Blogpage</title>
+</head>
+<body>
+    <h1>Welcome to the blogsite.</h1>
+    <h2>Random number: {{ number }}</h2>
+
+    <p><a href="{{ url_for('get_blog', number=2) }}">Goto blog page</a></p>
+</body>
+<footer>
+    <p>Copyright {{ copyright_year }}, {{ greet_name }}</p>
+</footer>
+</html>
